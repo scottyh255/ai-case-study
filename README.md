@@ -12,7 +12,7 @@
 # Their main customers are businesses of all sizes, from small companies to large corporations, as well as government agencies and schools. Basically, any organization that wants to better understand and improve the experiences of their customers or employees can use Qualtrics.
 # Qualtrics stands out because they offer an all-in-one platform that not only collects feedback but also provides powerful tools to analyze and act on that information. They use advanced technology like AI to help companies quickly find important insights and make better decisions. They also have a huge database of customer opinions, which gives them an edge over other companies that don't have access to the same level of information.
 # Qualtrics uses cloud technology and artificial intelligence (AI) to make sense of large amounts of feedback data. This allows businesses to quickly spot patterns and take action. 
-# <img src= ![image](https://github.com/user-attachments/assets/f81a8fb1-e47b-48d6-b3f6-5da3dceff6c5) width="400" height="400">
+# ![image](https://github.com/user-attachments/assets/f81a8fb1-e47b-48d6-b3f6-5da3dceff6c5)
 
 
 ## Landscape
